@@ -1,0 +1,13 @@
+body {
+    font-family: Helvetica;
+}
+header {
+    background-color: #000000;
+    padding-top: 50px;
+}
+.logo {
+    color: white;
+    position: relative;
+    bottom: 70px;
+    left: 10px;
+}
